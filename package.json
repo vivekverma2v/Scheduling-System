@@ -1,0 +1,19 @@
+{
+  "name": "espirelabtest",
+  "version": "1.0.0",
+  "description": "EspireLab coding test",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "vivek",
+  "license": "MIT",
+  "dependencies": {
+    "async-parallel": "^1.2.3",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
